@@ -41,15 +41,15 @@ A full‑stack application for sending and receiving “kudos” (peer‑to‑pe
 - Git  
 
 
-### Clone the Repo
-
+### Clone the Repo and run FE and BE
+```bash
 git clone https://github.com/Akshita963/kudos.git
 cd kudos-app
 git checkout kudos
 git pull origin kudos
 
 ## 1. Backend Setup
-
+```bash
 cd backend
 python -m venv env // creating virtual environment
 # Windows
