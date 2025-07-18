@@ -41,14 +41,22 @@ A full‑stack application for sending and receiving “kudos” (peer‑to‑pe
 - Git  
 
 
+### Clone the Repo
+
+```bash
+git clone git@github.com:YourUser/kudos-app.git
+cd kudos-app
+git checkout kudos
+git pull origin kudos
+
 ## 1. Backend Setup
 
 cd backend
-python -m venv env
+python -m venv env // creating virtual environment
 # Windows
-env\Scripts\activate
+env\Scripts\activate  // activate the environment
 # macOS/Linux
-source env/bin/activate
+source env/bin/activate  // activate the environment
 
 pip install -r requirements.txt
 
