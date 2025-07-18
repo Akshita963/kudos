@@ -43,7 +43,7 @@ A full‑stack application for sending and receiving “kudos” (peer‑to‑pe
 
 ### Clone the Repo
 
-git clone git@github.com:YourUser/kudos-app.git
+git clone https://github.com/Akshita963/kudos.git
 cd kudos-app
 git checkout kudos
 git pull origin kudos
