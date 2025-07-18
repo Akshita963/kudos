@@ -71,7 +71,7 @@ python manage.py createsuperuser
 python manage.py runserver
 
 
-## 1. Frontend Setup
+## 2. Frontend Setup
 
 ```bash
 
