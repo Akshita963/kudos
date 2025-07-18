@@ -41,9 +41,8 @@ A full‑stack application for sending and receiving “kudos” (peer‑to‑pe
 - Git  
 
 
-### 1. Backend Setup
+## 1. Backend Setup
 
-```bash
 cd backend
 python -m venv env
 # Windows
@@ -72,7 +71,7 @@ python manage.py createsuperuser
 python manage.py runserver
 
 
-### 1. Frontend Setup
+## 1. Frontend Setup
 
 ```bash
 
